@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Atari_SIO2SD_Mini")(type "KiCad")(uri "${KIPRJMOD}/Libs/Atari_SIO2SD_Mini.kicad_sym")(options "")(descr ""))
+)
