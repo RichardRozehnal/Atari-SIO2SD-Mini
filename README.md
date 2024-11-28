@@ -9,4 +9,4 @@ Podporuje soubory ATR, XEX, COM a XFD.
 
 ## Schéma
 
-![Atari SIO2SD Mini schema](Atari_SIO2SD_Mini_schema.pdf "SIO2SD Mini schema")
+![Atari SIO2SD Mini schema](Atari_SIO2SD_Mini - schema.pdf "SIO2SD Mini schema")
